@@ -1,0 +1,26 @@
+body {
+    font-family: Gerstner-Programm, Helvetica, 'Segoe UI', sans-serif;
+    letter-spacing: 0;
+    font-weight: 400;
+    font-size: 1.0rem;
+    line-height: 1.8;
+    color: (#666);
+}
+h5 {
+    font-family: Gerstner-Programm, Helvetica, 'Segoe UI', sans-serif;
+    letter-spacing: 0;
+    font-weight: 400;
+    font-size: 1.0rem;
+    line-height: 0;
+    color: (#666);
+}
+img {
+    border-radius: 50%;
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
